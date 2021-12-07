@@ -108,6 +108,10 @@
         "es": {
             "code": "es-ES",
             "description": "Español"
+        },
+        "zh": {
+            "code": "zh-CN",
+            "description": "中文"
         }
     },
     "geoNodeConfiguration": {
